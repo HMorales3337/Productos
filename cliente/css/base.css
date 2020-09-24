@@ -1,0 +1,31 @@
+.divForm {
+	padding-top: 10px;
+	margin: auto;
+}
+
+#divData {
+    display: none;
+}
+
+/* Search */
+#inputSearch {
+	border-radius: 2rem;
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
+border-right-color: transparent;
+}
+
+#inputSearch:focus {
+	box-shadow: none;
+	border-color: #ced4da;
+	border-right-color: transparent;
+}
+
+#searchIco {
+	border-radius: 2rem;
+	border-top-left-radius: 0;
+	border-bottom-left-radius: 0;
+	background-color: white;
+	border-left: none; 
+}
+/* ----- */
